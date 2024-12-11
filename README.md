@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working for Kozocom
 - 🌱 I’m currently learning Architectures, Devops stuff, Blockchain and a bit of Project management.
 - 💬 Ask me about: HTML5/CSS3, Javascript, PHP, Laravel, Database, React, Bash script, Devops stuff, AWS, Linux
-- 📫 How to reach me: [Github@ducxinh](https://github.com/ducxinh), [facebook@ducxinhdn201](https://www.facebook.com/ducxinhdn201), [linkedin](https://linkedin.com/in/ducxinh-it)
+- 📫 How to reach me: [Github@ducxinh](https://github.com/ducxinh), [Facebook@ducxinhdn201](https://www.facebook.com/ducxinhdn201), [Linkedin](https://linkedin.com/in/ducxinh-it)
 
 
 
